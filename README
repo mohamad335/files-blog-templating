@@ -1,0 +1,5 @@
+i use in this project framework flask and work on jinja
+first i render a website that contian a blog post design
+then i use the api that contain all the blg post i need
+i get the title and subtitle and the post from the api url 
+and i create a new path that when i click read on the blog take it me to the post of the title or id of it
